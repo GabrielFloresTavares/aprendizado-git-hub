@@ -1,0 +1,1 @@
+Para conectar no git precisa commitar local e passar para o remoto

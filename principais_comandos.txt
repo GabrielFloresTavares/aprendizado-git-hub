@@ -1,0 +1,6 @@
+git init: iniciar o git 
+git add: adicionar arquivos na fila para comitar 
+git commit: comitar e salvar alterações dos arquivos 
+git branch: cria uma nova branch 
+git push: empura commits para o Github 
+git pull: pega commits do GitHub

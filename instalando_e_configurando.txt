@@ -1,0 +1,1 @@
+Para instalar o git precisei ir no endereço oficial do git e instalar 
